@@ -8,7 +8,7 @@
     height: 100vh;
     font-family: sans-serif;
     padding: 10em 10em;
-    background: url(./images/bg1.webp);
+    background: url(./images/back1.png);
     opacity: 0.5;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,12 +21,12 @@
     .glass {
     width: 500px;
     height: 400px;
-    background-color: rgba(244, 77, 6, 0.1);
+    background-color: rgba(253, 5, 9, 0.1);
     padding: 50px;
-    color: #011000;
+    color: #f20303;
     border-radius: 9px;
     backdrop-filter: blur(50px);
-     border: 2px solid transparent;
+     /* border: 2px solid opaquw; */
     background-clip: padding-box; 
      box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3); 
      line-height: 1.5;
