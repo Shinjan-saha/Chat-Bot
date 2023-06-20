@@ -26,10 +26,10 @@
     height: auto;
     background-color: rgba(253, 5, 9, 0.1);
     padding: 5%;
-    color: #f20303;
+    color: #fd1706;
     border-radius: 9px;
     backdrop-filter: blur(50px);
-    /* border: 2px solid opaquw; */
+    border: 2px solid transparent;
     background-clip: padding-box;
     box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
     line-height: 1.5;
@@ -43,7 +43,7 @@
     height: auto;
     background-color: rgba(245, 3, 3, 0.1);
     padding: 5%;
-    color: rgb(8, 248, 248);
+    color: rgb(44, 248, 8);
     border-radius: 9px;
     backdrop-filter: blur(50px);
     border: 2px solid transparent;
